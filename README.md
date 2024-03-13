@@ -1,0 +1,1 @@
+# araclar-marka-model
