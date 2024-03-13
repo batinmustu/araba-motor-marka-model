@@ -1,4 +1,4 @@
-CREATE TABLE `cars` (
+CREATE TABLE `arabalar` (
   `marka_kodu` BIGINT,
   `model_kodu` BIGINT,
   `marka_adi` VARCHAR(1024),
